@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying
+I'm Nabajit Das, a BTech CSE final-year student passionate about cybersecurity, networking, and full-stack development. 
 
 
 ## 🌐 Socials:
